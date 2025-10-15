@@ -1,1 +1,8 @@
-# codetest
+# Code Test
+
+```
+x = 5
+y = "John"
+print(x)
+print(y)
+```
